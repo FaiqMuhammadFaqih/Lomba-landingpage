@@ -1,0 +1,18 @@
+#tx {
+  font-size: 25px;
+  color: white;
+}
+
+button {
+  margin: 5px;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+input {
+  height: 32px;
+}
